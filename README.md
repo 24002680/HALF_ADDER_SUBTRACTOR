@@ -35,6 +35,10 @@ Figure -02 HALF Subtractor
 
 **Truthtable**
 
+
+![Screenshot 2024-12-26 194844](https://github.com/user-attachments/assets/495d5e36-7d84-4f96-9842-c3d242dfd53b)
+
+
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -50,12 +54,30 @@ Figure -02 HALF Subtractor
 
 **Program:**
 
-/* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+Developed by:B.Gunasundari
 
-Developed by: RegisterNumber:*/
+RegisterNumber:24002680
+
+![Screenshot 2024-12-26 194648](https://github.com/user-attachments/assets/32e372be-b126-4b30-80d9-82fd77a8aa3f)
+
+
+![Screenshot 2024-12-26 194658](https://github.com/user-attachments/assets/46187589-a172-4d0b-a814-6bdf5507fc30)
+
 
 **RTL Schematic**
+![Screenshot 2024-12-26 194706](https://github.com/user-attachments/assets/1a1cda07-d5ac-4d24-94af-2df61964b64a)
+
+![Screenshot 2024-12-26 194714](https://github.com/user-attachments/assets/df2f84c7-10b9-4e4f-a07a-cbc1a4b13aa6)
+
+
 
 **Output/TIMING Waveform**
+![Screenshot 2024-12-26 194723](https://github.com/user-attachments/assets/9832d604-dd9e-4364-b424-74eafec07dce)
+
+
+![Screenshot 2024-12-26 194731](https://github.com/user-attachments/assets/7c8b1403-f085-43a8-9151-366f59ff9557)
+
 
 **Result:**
+
+Thus the half wave subtractor in quartus using verilog programming are studied, verified and executed successfully.
